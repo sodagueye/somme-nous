@@ -1,0 +1,15 @@
+/* #05B192 */
+.bgimage{
+    background: url('./image/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+.section1{
+    background-color:#05B192 ;
+    height: 100%
+}
+.Trais{
+    border-bottom: 6px solid #FF9800;
+  
+}
